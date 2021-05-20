@@ -1,4 +1,4 @@
-### Hello, I'm [Meelod Waheed](https://www.linkedin.com/in/meelod/)
+### Hello, I'm [Meelod](https://www.linkedin.com/in/meelod/)
 
 I'm currently a sophmore at Northern Virginia Community College studying Computer Science, focusing on machine learning research and optimization.
 
