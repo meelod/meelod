@@ -8,5 +8,8 @@ I'm currently a sophmore at Northern Virginia Community College studying Compute
 
 Email: meelod.waheed360@gmail.com
 
+## Check out the work I'm doing with Kinetic Monte Carlo to study Chemical Kinetics
+https://github.com/kmcos
+
 ## Check out my project website with The Caring Consultants
 https://www.thecaringconsultants.com/
