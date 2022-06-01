@@ -14,6 +14,9 @@ https://github.com/kmcos
 ## Check out my project website with The Caring Consultants
 https://www.thecaringconsultants.com/
 
+## Check out my personal website
+https://meelod.github.io/
+
 ## Some Stats
 
 [![Meelod's GitHub stats](https://github-readme-stats.vercel.app/api?username=meelod)](https://github.com/meelod/github-readme-stats)
