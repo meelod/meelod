@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm [Meelod](https://www.linkedin.com/in/meelod/)
 
-I'm currently a Senior at Pomona College studying Computer Science, focusing on machine learning research and optimization.
+I'm a software engineer at Nascent and Pomona College alum.
 
 ## 📫 How to reach me: 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/meelod)
