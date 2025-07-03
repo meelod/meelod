@@ -11,11 +11,11 @@ Email: mwmo2022@mymail.pomona.edu.com
 ### Check out the work I did in creating a scientific library for Kinetic Monte Carlo Simulations to study chemical kinetics
 https://github.com/kmcos
 
-### Check out my machine learning projects on forecasting weather
-https://github.com/weather-forecast
-
 ### Check out my machine learning projects on predicting injuries on professional student athletes
-https://github.com/weather-forecast
+https://github.com/meelod/injury-prediction
 
-### Check out my personal website
-https://meelod.github.io/
+### Check out my VR Game on itch.io
+https://meelod-waheed.itch.io/drum-beat-vr
+
+### Check out the website I worked on at NASA
+https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/
