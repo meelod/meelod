@@ -3,7 +3,6 @@
 I'm a software engineer at Nascent and Pomona College alum.
 
 ## 📫 How to reach me: 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/meelod)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meelod/)
 
 Email: mwmo2022@mymail.pomona.edu.com
