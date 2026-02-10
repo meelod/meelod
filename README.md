@@ -37,7 +37,7 @@ ML model achieving ~96% accuracy predicting injuries in professional track & fie
 
 | Company | Role | Highlights |
 |---------|------|------------|
-| **[Nascent](https://www.nascent.xyz/)** | Software Engineer | Built LLM-powered trading decision engine (~$1M+ net PnL). Rust/Python APIs with 99.9% sub-100ms latency. Risk systems managing ~$75M+ notional exposure. |
+| **[Nascent](https://www.nascent.xyz/)** | Software Engineer | Full stack engineer buliding trading systems. Built LLM-powered tools. |
 | **[TrapJack](https://trapjack.com)** | Co-Founder | IoT startup for e-bike theft prevention. 40+ user interviews, 4 A/B tests, shipped MVP. |
 | **[Alarm.com](https://alarm.com)** | PM Intern | Market research & Figma prototypes for video products with cross-functional teams. |
 | **[Oak Ridge National Lab](https://www.ornl.gov/)** | SWE Intern | Open-source simulation models for oxidation reactions. Published research paper, presented at 3 conferences. |
