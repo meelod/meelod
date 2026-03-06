@@ -8,11 +8,27 @@ Building high-performance trading systems and full-stack applications. Previousl
 
 ## 🚀 Featured Projects
 
+### [Event Analytics Platform](https://github.com/meelod/event-analytics)
+Lightweight Mixpanel alternative with natural language querying and automatic chart rendering
+- FastAPI + React + TypeScript + DuckDB
+- GPT-4o converts natural language to SQL with 4-layer safety sandbox
+- Multi-tenant isolation with API key auth and org-scoped queries
+
 ### [PartSelect RAG Chatbot](https://github.com/meelod/rag-chatbot)
-AI-powered customer support chatbot using RAG (Retrieval-Augmented Generation)
-- React + TypeScript + Tailwind CSS frontend
-- Node.js/Express backend with OpenAI GPT-4o-mini
-- ChromaDB vector database with semantic search
+AI-powered product assistant using RAG (Retrieval-Augmented Generation)
+- React + Node/Express with ChromaDB vector search
+- Semantic search pipeline: web scraping → embeddings → contextual LLM responses
+
+### [Task Manager with Dependency Graphs](https://github.com/meelod/soma-technical-assessment)
+Next.js task management app with critical path analysis
+- Pexels API image generation, due date tracking with overdue highlighting
+- Dependency graph visualization with cycle detection and Kahn's algorithm
+
+### [Analogous Document Discovery](https://github.com/meelod/web-crawler)
+Web crawler that discovers all versions of a recurring document from a seed URL
+- FastAPI + React + TypeScript with SSE streaming for live progress
+- Gemini API for document analysis and series matching
+- Multi-strategy crawling: year siblings, archive links, parent path listings, site search
 
 ### [Crypto Orderbook](https://github.com/meelod/crypto-orderbook)
 Real-time cryptocurrency trading interface *(Built in 4 hours)*
