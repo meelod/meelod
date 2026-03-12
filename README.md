@@ -1,7 +1,5 @@
 # Hey, I'm Meelod 👋
 
-**Software Engineer @ [Nascent](https://www.nascent.xyz/)** | Pomona College '24 | AWS Certified Solutions Architect
-
 Building high-performance trading systems and full-stack applications. Previously shipped production software at NASA, Oak Ridge National Lab, and Alarm.com.
 
 ---
