@@ -13,7 +13,7 @@ Lightweight Mixpanel alternative with natural language querying and automatic ch
 - Multi-tenant isolation with API key auth and org-scoped queries
 
 ### [arxiv-trend-radar](https://github.com/meelod/arxiv-trend-radar)
-Daily AI briefing + weekly trend analysis surfacing research-industry gaps and startup ideas from arXiv — [live site](https://arxiv-trend-radar-git-main-meelod-waheeds-projects.vercel.app)
+Daily AI briefing + weekly trend analysis surfacing research-industry gaps and startup ideas from arXiv — [live site](https://arxiv-trend-radar.vercel.app)
 - Python pipeline (OAI-PMH ingestion) + React/TypeScript/Vite frontend on Vercel
 - Embedding-based clustering (KMeans on text-embedding-3-small) with week-over-week delta tracking on cluster centroids
 - Two-stage LLM synthesis with structured outputs: gpt-4o-mini for daily briefings, gpt-5.4-mini for trend gap analysis
