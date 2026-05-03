@@ -44,14 +44,6 @@ Open-source kinetic Monte Carlo simulation library for surface chemistry — Pyt
 
 ---
 
-## Tech
-
-`Python` `Rust` `TypeScript` `C/C++/C#` `React` `Next.js` `FastAPI` `Node` `PostgreSQL` `AWS (Certified)` `Docker` `Unity`
-
----
-
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://meelodwaheed.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meelod/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meelod.waheed360@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/meelod/) · [Email](mailto:meelod.waheed360@gmail.com)
