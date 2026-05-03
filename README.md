@@ -7,16 +7,19 @@ Software engineer building trading systems, full-stack apps, and the occasional 
 ## Featured Work
 
 ### 🚀 [NASA Glenn — Beginner's Guide to Aeronautics](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/)
-Modernized 150+ educational web pages with Section 508 accessibility compliance. Live site serves 8M+ annual visitors.
+Built interactive simulation models powering 150+ educational pages on aerodynamics and propulsion, with Section 508 accessibility compliance. Live site serves 8M+ annual visitors.
 
 ### 📄 [arXiv Trend Radar](https://arxiv-trend-radar.vercel.app)
-Daily AI briefings + weekly trend and gap analysis surfacing research-industry mismatches and startup ideas from arXiv. Ingests ~1500 papers/day across 14 CS/EE/quant categories, fully automated via GitHub Actions (~$2/mo).
+Daily AI briefings + weekly trend and gap analysis surfacing research-industry mismatches and startup ideas from arXiv. Ingests roughly 1,500 papers/day across 14 CS/EE/quant categories, fully automated via GitHub Actions (about $2/mo).
 - Python OAI-PMH pipeline + React/TypeScript/Vite frontend on Vercel
 - KMeans clustering on `text-embedding-3-small` with week-over-week centroid delta tracking
 - Two-stage LLM synthesis with structured outputs: `gpt-4o-mini` for daily briefings, `gpt-5.4-mini` for trend/gap analysis
 
-### 🎮 [Drum Beat VR](https://meelod-waheed.itch.io/drum-beat-vr) — 🏆 Best Game Award
-Immersive VR drumming game built in Unity/C# for Oculus Quest. Won Best Game at Harvey Mudd Virtual Demo Day. [Watch the demo](https://www.linkedin.com/posts/meelod_check-out-my-project-httpslnkdinepbn2eqt-activity-7201341496216743936-2Rps).
+### 🎮 [Drum Beat VR](https://meelod-waheed.itch.io/drum-beat-vr)
+Immersive VR drumming game built in Unity/C# for Oculus Quest. [Watch the demo](https://www.linkedin.com/posts/meelod_check-out-my-project-httpslnkdinepbn2eqt-activity-7201341496216743936-2Rps).
+
+### 🧪 [kmcos](https://github.com/kmcos/kmcos)
+Open-source kinetic Monte Carlo simulation library for surface chemistry — Python frontend + Fortran backend. Contributed during my Oak Ridge internship; presented at 3 conferences.
 
 ---
 
@@ -27,7 +30,7 @@ Immersive VR drumming game built in Unity/C# for Oculus Quest. Won Best Game at 
 | **[Nascent](https://www.nascent.xyz/)** | Software Engineer | Full-stack trading systems, LLM-powered tooling |
 | **[TrapJack](https://trapjack.com)** | Co-Founder | IoT e-bike anti-theft startup — 40+ user interviews, shipped MVP |
 | **[Alarm.com](https://alarm.com)** | PM Intern | Market research and prototypes for video products |
-| **[Oak Ridge National Lab](https://www.ornl.gov/)** | SWE Intern | Contributed to [kmcos](https://github.com/kmcos/kmcos) — kinetic Monte Carlo simulations of surface chemistry. Presented at 3 conferences. |
+| **[Oak Ridge National Lab](https://www.ornl.gov/)** | SWE Intern | Surface chemistry simulations (see kmcos above) |
 | **[NASA Glenn Research Center](https://www.nasa.gov/glenn/)** | SWE Intern | Web modernization, Section 508 compliance |
 
 ---
@@ -51,5 +54,6 @@ Immersive VR drumming game built in Unity/C# for Oculus Quest. Won Best Game at 
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://meelodwaheed.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meelod/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meelod.waheed360@gmail.com)
