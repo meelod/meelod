@@ -41,9 +41,3 @@ Open-source kinetic Monte Carlo simulation library for surface chemistry — Pyt
 - **[Task Manager with Dependency Graphs](https://github.com/meelod/soma-technical-assessment)** — Next.js task app with critical path analysis (Kahn's algorithm).
 - **[Crypto Orderbook](https://github.com/meelod/crypto-orderbook)** — Real-time bid/ask visualization. Built in 4 hours. React + TypeScript.
 - **[Athlete Injury Prediction](https://github.com/meelod/injury-prediction)** — ML model with ~96% accuracy on track & field injury data.
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/meelod/) · [Email](mailto:meelod.waheed360@gmail.com)
