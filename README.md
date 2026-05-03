@@ -1,5 +1,3 @@
-# Hey, I'm Meelod 👋
-
 Software engineer building trading systems, full-stack apps, and the occasional VR game. Previously at NASA, Oak Ridge National Lab, and Alarm.com.
 
 ---
