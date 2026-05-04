@@ -8,10 +8,10 @@ Software engineer building trading systems, full-stack apps, and the occasional 
 Built interactive simulation models powering 150+ educational pages on aerodynamics and propulsion, with Section 508 accessibility compliance. Live site serves 8M+ annual visitors.
 
 ### 📄 [arXiv Trend Radar](https://arxiv-trend-radar.vercel.app)
-Daily AI briefings + weekly trend and gap analysis surfacing research-industry mismatches and startup ideas from arXiv. Ingests roughly 1,500 papers/day across 14 CS/EE/quant categories, fully automated via GitHub Actions (about $2/mo).
+Daily AI briefings + weekly trend and gap analysis surfacing research-industry mismatches and startup ideas from arXiv. Ingests roughly 1,500 papers/day across 14 CS/EE/quant categories.
 - Python OAI-PMH pipeline + React/TypeScript/Vite frontend on Vercel
 - KMeans clustering on `text-embedding-3-small` with week-over-week centroid delta tracking
-- Two-stage LLM synthesis with structured outputs: `gpt-4o-mini` for daily briefings, `gpt-5.4-mini` for trend/gap analysis
+- Two-stage LLM synthesis with structured outputs: `gpt-4o-mini` for daily briefings, `gpt-5.4` for trend/gap analysis
 
 ### 🎮 [Drum Beat VR](https://meelod-waheed.itch.io/drum-beat-vr)
 Immersive VR drumming game built in Unity/C# for Oculus Quest. [Watch the demo](https://www.linkedin.com/posts/meelod_check-out-my-project-httpslnkdinepbn2eqt-activity-7201341496216743936-2Rps).
